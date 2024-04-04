@@ -5,7 +5,7 @@ Companion Repo for [Redux/Redux-saga beginner tutorial](https://github.com/redux
 
 Setup
 
-Run the demo
+Clone:
 
 ```
 git clone https://github.com/Aanchalll/react-reduc-toolkit-saga.git

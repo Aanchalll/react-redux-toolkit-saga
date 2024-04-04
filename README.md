@@ -7,9 +7,9 @@ Setup
 
 ```
 // clone the repo
-git clone https://github.com/redux-saga/redux-saga-beginner-tutorial.git
+git clone https://github.com/Aanchalll/react-reduc-toolkit-saga.git
 
-cd redux-saga-beginner-tutorial
+cd react-reduc-toolkit-saga
 
 npm install
 ```
@@ -18,10 +18,4 @@ Run the demo
 
 ```
 npm start
-```
-
-Run tests
-
-```
-npm test
 ```
